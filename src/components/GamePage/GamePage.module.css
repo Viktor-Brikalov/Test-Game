@@ -1,0 +1,19 @@
+.games_page__page_layout {
+  padding: 40px;
+  height: 100vh;
+}
+
+.games_page__link {
+  padding: 5px 40px;
+  color: #000;
+  cursor: pointer;
+  background: gray;
+  width: fit-content;
+}
+
+.games_page__title_container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

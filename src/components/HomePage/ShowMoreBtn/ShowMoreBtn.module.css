@@ -1,0 +1,10 @@
+.show_more_btn_page__button_container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.show_more_btn_page__button {
+  padding: 5px 40px;
+  color: #000;
+  cursor: pointer;
+}
